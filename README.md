@@ -209,7 +209,7 @@ let main args =
   | :? CommandLine.NotParsed<obj> -> 1
 ```
 
-For additional examples, check the [wiki for additional examples](https://gsscoder/commandline/wiki/Examples)
+For additional examples, check the [wiki for additional examples](https://commandlineparser/commandline/wiki/Examples)
 
 Acknowledgements:
 ---
@@ -237,8 +237,8 @@ For more info, see the [wiki for details about contributing](https://github.com/
 
 ## Resources for newcomers:
 
-- [Quickstart](https://github.com/gsscoder/commandline/wiki/Quickstart)
-- [Wiki](https://github.com/gsscoder/commandline/wiki)
+- [Getting started](https://github.com/commandlineparser/commandline/wiki#getting-started)
+- [Wiki](https://github.com/commandlineparser/commandline/wiki)
 - [GNU getopt](http://www.gnu.org/software/libc/manual/html_node/Getopt.html)
 
 # Contacts:
